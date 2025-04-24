@@ -1,6 +1,12 @@
+
+## About HyperspaceAI
+
+HyperspaceAI is a decentralized, peer-to-peer protocol for running AI inference. Inspired by BitTorrent, it allows anyone to contribute compute power to a global network that serves and verifies AI model outputs. By distributing inference tasks across community nodes, HyperspaceAI aims to make access to powerful AI models more open, resilient, and censorship-resistant.
+
+
 # HyperspaceAI Error Handler
 
-This repository provides a Tampermonkey UserScript designed to maintain persistent connectivity with the [HyperspaceAI](https://node.hyper.space) platform. The script intelligently monitors the connection state, handles WebGPU-related pop-ups, and automates the reconnection process in the event of failures — all to ensure a smoother and more stable user experience.
+This repository provides a Tampermonkey UserScript designed to maintain persistent connectivity with the [HyperspaceAI](https://node.hyper.space) platform. The script intelligently monitors the connection state, handles WebGPU-related pop-ups, and automates the reconnection process in the event of failures to ensure a smoother and more stable user experience.
 
 ---
 
